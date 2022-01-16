@@ -1,3 +1,5 @@
 test d RENDITIONKEY d
 also RENDITIONKEY :)
 also RENDITIONKEY :)
+text here
+ALSO RENDITIONKEY in file
